@@ -9,8 +9,11 @@ I turn complex requirements into intuitive, reliable interfaces through strong a
 ### 🛠 Tech Stack
 
 **Frontend:** React · Next.js · React Native · TypeScript · JavaScript · Redux · Zustand · TanStack Query · Tailwind CSS · React Hook Form
+
 **Testing:** Jest · Vitest · React Testing Library · Playwright
+
 **Backend & APIs:** Node.js · Python · REST APIs · PostgreSQL · MongoDB · GraphQL · Redis
+
 **DevOps & Tools:** AWS · Docker · Git · Cloudflare · Webpack · Vite
 
 ---
