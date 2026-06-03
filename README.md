@@ -10,4 +10,4 @@ I'm a Frontend Engineer with 6+ years of experience building scalable, high-perf
 - **Backend:** Node.js, Express, Python, Django, PostgreSQL
 
 
-![](https://komarev.com/ghpvc/?username=v-swapnil)
+![](https://komarev.com/ghpvc/?username=v-swapnil&style=pixel)
